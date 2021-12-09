@@ -18,7 +18,7 @@ coloredlogs.install(
 	level = logging.INFO
 )
 
-token = 'OTEwNzM4NjU5OTQ5NTY4MDIx.YZXNeQ.5ub1NHSkKG5bIBSKbJa1ujqXTYY'
+token = ''
 
 class Bot:
 	def __init__(self) -> None:
